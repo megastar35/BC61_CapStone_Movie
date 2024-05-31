@@ -1,0 +1,16 @@
+.movie {
+    color: #4c4145;
+    .movie__info {
+        .movie__image {
+            img {
+                width: 100%;
+            }
+        }
+        .info {
+            p {
+                margin-bottom: 3px;
+                line-height: 28px;
+            }
+        }
+    }
+}
